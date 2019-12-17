@@ -1,6 +1,6 @@
 {
   "name": "@miva_ssoule/lsk-validation-validator",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,10 +16,10 @@
   },
   "homepage": "https://github.com/steveosoule/lsk-validation-js#readme",
   "dependencies": {
-    "@miva_ssoule/lsk-validation-email": "^0.2.0",
-    "@miva_ssoule/lsk-validation-password": "^0.2.0",
-    "@miva_ssoule/lsk-validation-phone": "^0.2.0",
-    "@miva_ssoule/lsk-validation-zip": "^0.2.0"
+    "@miva_ssoule/lsk-validation-email": "^0.3.0",
+    "@miva_ssoule/lsk-validation-password": "^0.3.0",
+    "@miva_ssoule/lsk-validation-phone": "^0.3.0",
+    "@miva_ssoule/lsk-validation-zip": "^0.3.0"
   },
   "publishConfig": {
     "access": "public"
