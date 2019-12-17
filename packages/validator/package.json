@@ -20,5 +20,6 @@
     "@miva_ssoule/lsk-validation-password": "^0.1.0",
     "@miva_ssoule/lsk-validation-phone": "^0.1.0",
     "@miva_ssoule/lsk-validation-zip": "^0.1.0"
-  }
+  },
+  "gitHead": "7ffe0f98617c594805afb22725cf8d56cae37765"
 }

@@ -14,5 +14,6 @@
   "bugs": {
     "url": "https://github.com/steveosoule/lsk-validation-js/issues"
   },
-  "homepage": "https://github.com/steveosoule/lsk-validation-js#readme"
+  "homepage": "https://github.com/steveosoule/lsk-validation-js#readme",
+  "gitHead": "7ffe0f98617c594805afb22725cf8d56cae37765"
 }
