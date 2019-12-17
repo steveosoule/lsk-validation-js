@@ -1,0 +1,11 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "@miva_ssoule/lsk-validation-validator": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "main": "node index.js"
+  },
+  "license": "ISC"
+}
