@@ -21,5 +21,8 @@
     "@miva_ssoule/lsk-validation-phone": "^0.2.0",
     "@miva_ssoule/lsk-validation-zip": "^0.2.0"
   },
-  "gitHead": "7ffe0f98617c594805afb22725cf8d56cae37765"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "f231b274f17ca2b8ecd3c0311b87c74461efd480"
 }
